@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Readonly_Const_Inheritance/1.0.0": {
+        "runtime": {
+          "Readonly_Const_Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Readonly_Const_Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
