@@ -19,4 +19,17 @@ using Readonly_Const_Inheritance.Services;
 //    Console.WriteLine(item.name);
 //}
 EmployeeController employeeController = new EmployeeController();
-employeeController.GetAll();
+//employeeController.GetAll();
+//employeeController.GetAllByAge();
+//employeeController.GetCountByAge();
+
+//employeeController.GetSumOfAges();
+//employeeController.GetAllByCheckedEmail(); 
+
+
+
+
+
+
+
+

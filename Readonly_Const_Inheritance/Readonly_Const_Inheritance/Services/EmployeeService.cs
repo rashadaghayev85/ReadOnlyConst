@@ -56,6 +56,22 @@ namespace Readonly_Const_Inheritance.Services
             return employess;
             
     }
-
-    }
+        public Employee[] GetAllByAge(Employee[]employees ,int age)
+        {
+           
+            return employees.Where(m=>m.age>age).ToArray();
+        }
+        public int  GetCountByAge(Employee[] employees ,int firstAge,int lastAge)
+        {
+            return employees.Where(m => m.age >firstAge&&m.age<lastAge).Count();
+        }
+        public int SumOfAge(Employee[] employees)
+        {
+            return employees.Sum(m => m.age);
+        }
+   public Employee[] GetAllByCheckedEmail(Employee[] employees,string str)
+        {
+            return employees.Where(m => m.email.StartsWith(str)).ToArray();
+        }
+    }  
 }

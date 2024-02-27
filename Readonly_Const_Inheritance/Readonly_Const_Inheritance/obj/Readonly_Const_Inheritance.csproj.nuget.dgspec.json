@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj": {}
+    "C:\\Users\\Rashad\\OneDrive\\Desktop\\ReadOnlyConst\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj": {
+    "C:\\Users\\Rashad\\OneDrive\\Desktop\\ReadOnlyConst\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Rashad\\OneDrive\\Desktop\\ReadOnlyConst\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj",
         "projectName": "Readonly_Const_Inheritance",
-        "projectPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj",
+        "projectPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\ReadOnlyConst\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance.csproj",
         "packagesPath": "C:\\Users\\Rashad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\ReadOnlyConst\\Readonly_Const_Inheritance\\Readonly_Const_Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rashad\\AppData\\Roaming\\NuGet\\NuGet.Config",
